@@ -18,5 +18,4 @@ It uses the classic **Iris dataset** to train a Decision Tree model that predict
 - Achieves 100% accuracy on test data
 - Predicts flower types based on input
 
-## 🧠 Future Plan
-A simple UI will be added in the next phase of this project using Tkinter or Streamlit.
+
